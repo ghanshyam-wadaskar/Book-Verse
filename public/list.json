@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "E Bal Bharati Book",
+        "title": "१२ वी माहिती तंत्रज्ञान - कला इंग्रजी",
+        "price": "0",
+        "category": "Free",
+        "image": "https://books.ebalbharati.in/BookCovers/1203010498.jpg",
+        "link": "https://ebooks.ebalbharati.in/pdfs/1203010498.pdf"
+    },
+       
+    {
+        "id": 2,
+        "name": "E Bal Bharati Book",
+        "title": "११ वी माहिती तंत्रज्ञान इंग्रजी",
+        "price": "0",
+        "category": "Free",
+        "image": "https://books.ebalbharati.in/BookCovers/1103000662.jpg",
+        "link": "https://ebooks.ebalbharati.in/pdfs/1103000662.pdf"
+    },
+    
+    {
+        "id": 3,
+        "name": "C Programming Book",
+        "title": "Computer Science and Engineering 1st year ",
+        "price": "0",
+        "category": "Free",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2aNHN-dOSnPk2TT7vOMWs8vv1i3JC2CnNQA&s",
+        "link": "https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/notes/C_Complete_Notes.pdf"
+    },
+    
+    {
+        "id": 4,
+        "name": "Computer Architecture And Organization",
+        "title": "Computer Science and Engineering 2st year",
+        "price": "0",
+        "category": "Free",
+        "image": "https://bookstation.in/cdn/shop/products/N0979.jpg?v=1688480115",
+        "link": "https://drive.google.com/drive/folders/1AdNZWit-dw46vVozjDNEapKPDbhydwUv"
+    },
+    
+    {
+        "id": 5,
+        "name": "Data Structures",
+        "title": "Computer Science and Engineering 2st year",
+        "price": "120",
+        "category": "Study",
+        "image": "https://rukminim2.flixcart.com/image/416/416/kehfi4w0/book/1/1/2/data-structures-for-dbatu-semester-3-computer-engg-original-imafv5qeee4z6ggz.jpeg?q=70&crop=false",
+        "link": "https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/notes/DSA_CompleteNotes.pdf"
+    },
+    
+    {
+        "id": 6,
+        "name": "Discrete Math Book",
+        "title": "Computer Science and Engineering 2st year",
+        "price": "130",
+        "category": "Notes",
+        "image": "https://rukminim2.flixcart.com/image/416/416/kehfi4w0/book/9/7/7/discrete-mathematics-for-dbatu-semester-3-computer-engg-original-imafv5qebjdgxpez.jpeg?q=70&crop=false",
+        "link": "https://drive.google.com/drive/folders/12tUhOQXnL099k6RUHrZ0pE0xgyGaDwDe"
+    },
+    
+    {
+        "id": 7,
+        "name": "Math 3",
+        "title": "Computer Science and Engineering 2st year",
+        "price": "140",
+        "category": "Notes",
+        "image": "https://rukminim2.flixcart.com/image/416/416/keg02a80/book/1/0/6/engineering-mathematics-3-for-dbatu-semester-3-civil-mechanical-original-imafv4djfhmpzyfz.jpeg?q=70&crop=false",
+        "link": "https://drive.google.com/file/d/1WIMWfJmtOcAID4bFH5_zsESphB5BkYF6/view?usp=sharing"
+    },
+    
+    {
+        "id": 8,
+        "name": "Object Oriented Programming",
+        "title": "Computer Science and Engineering 2st year",
+        "price": "150",
+        "category": "Notes",
+        "image": "https://m.media-amazon.com/images/I/51gFlDOK9-L._SY342_.jpg",
+        "link": "https://drive.google.com/drive/folders/1g5VJ_svsDYsScjmsrAZ_l7pwCIs8ry5P"
+    },
+    
+    {
+        "id": 9,
+        "name": "Python",
+        "title": "Computer Science and Engineering 2st year",
+        "price": "200",
+        "category": "Notes",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/book/r/y/o/python-programming-dbatu-second-year-sy-b-tech-semester-4-original-imagh2s7bymmb4gy.jpeg?q=70&crop=false",
+        "link": "https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/notes/Python_Complete_Notes.pdf"
+    },
+    
+    {
+        "id": 10,
+        "name": "Operating System Book",
+        "title": "Computer Science and Engineering 2st year",
+        "price": "500",
+        "category": "Study",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/book/b/2/6/operating-systems-third-year-ty-b-tech-in-information-technology-original-imagnsgdptqfefhh.jpeg?q=70&crop=false",
+        "link": "https://drive.google.com/drive/folders/15QDdMddoJ6rShMHKD4ZeZiIzxuMx1_qk"
+    },
+    
+    {
+        "id": 11,
+        "name": "Probability and Statistics Book",
+        "title": "Computer Science and Engineering 2st year",
+        "price": "400",
+        "category": "Study",
+        "image": "https://m.media-amazon.com/images/I/51BSOj+GGkL._SY342_.jpg",
+        "link": "https://drive.google.com/drive/folders/15XyQnOEX8YUYnLIFXxWwXVbU9i4WQWnT"
+    },
+        
+    {
+        "id": 12,
+        "name": "Java Book",
+        "title": "Computer Science and Engineering ",
+        "price": "500",
+        "category": "Notes",
+        "image": "https://www.codewithharry.com/img/notes/java.webp",
+        "link": "https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/notes/Java_Complete_Notes.pdf"
+    },
+        
+    {
+        "id": 13,
+        "name": "HTML Book",
+        "title": "Computer Science and Engineering ",
+        "price": "500",
+        "category": "Notes",
+        "image": "https://www.codewithharry.com/img/notes/html.webp",
+        "link": "https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/notes/HTML_Complete_Notes.pdf"
+    },
+            
+    {
+        "id": 14,
+        "name": "CSS Book",
+        "title": "Computer Science and Engineering ",
+        "price": "500",
+        "category": "Notes",
+        "image": "https://www.codewithharry.com/img/notes/css.webp",
+        "link": "https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/notes/CSS_Complete_Notes.pdf"
+    },
+            
+    {
+        "id": 15,
+        "name": "HTML Book",
+        "title": "Computer Science and Engineering ",
+        "price": "500",
+        "category": "Notes",
+        "image": "https://www.codewithharry.com/img/notes/html.webp",
+        "link": "https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/notes/HTML_Complete_Notes.pdf"
+    },
+            
+    {
+        "id": 16,
+        "name": "JS Book",
+        "title": "Computer Science and Engineering 2st year",
+        "price": "500",
+        "category": "Notes",
+        "image": "https://www.codewithharry.com/img/notes/js.webp",
+        "link": "https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/notes/JS_Chapterwise_Notes.pdf"
+    }
+       
+]
